@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd1580f6.css",
+    "main.js": "/static/js/main.756b9f4f.js",
+    "static/js/377.c284133b.chunk.js": "/static/js/377.c284133b.chunk.js",
+    "static/media/fira-code-all-400-normal.woff": "/static/media/fira-code-all-400-normal.f040c6c2c35bd88d2ce8.woff",
+    "static/media/fira-code-all-700-normal.woff": "/static/media/fira-code-all-700-normal.eca4358327bab9afc505.woff",
+    "static/media/bungee-all-400-normal.woff": "/static/media/bungee-all-400-normal.61ca83d074e495e65ec1.woff",
+    "static/media/fira-code-latin-400-normal.woff2": "/static/media/fira-code-latin-400-normal.512fb741699ee46e71c3.woff2",
+    "static/media/fira-code-latin-700-normal.woff2": "/static/media/fira-code-latin-700-normal.fa95d924d7433b10321e.woff2",
+    "static/media/bungee-latin-400-normal.woff2": "/static/media/bungee-latin-400-normal.daddcac6fe1a2454c842.woff2",
+    "static/media/bungee-latin-ext-400-normal.woff2": "/static/media/bungee-latin-ext-400-normal.7ec24d3fb778d0a7f8ac.woff2",
+    "static/media/fira-code-cyrillic-ext-400-normal.woff2": "/static/media/fira-code-cyrillic-ext-400-normal.7c2a112ab30d0c9d36b9.woff2",
+    "static/media/fira-code-cyrillic-ext-700-normal.woff2": "/static/media/fira-code-cyrillic-ext-700-normal.b203b48b424eb07dd3a7.woff2",
+    "static/media/fira-code-greek-700-normal.woff2": "/static/media/fira-code-greek-700-normal.e0524fc73f6bb6d02d94.woff2",
+    "static/media/fira-code-greek-400-normal.woff2": "/static/media/fira-code-greek-400-normal.c20795eca5fc139c1f8a.woff2",
+    "static/media/fira-code-latin-ext-400-normal.woff2": "/static/media/fira-code-latin-ext-400-normal.56da2b3c6dfb1f0328db.woff2",
+    "static/media/fira-code-latin-ext-700-normal.woff2": "/static/media/fira-code-latin-ext-700-normal.ad92b14b94793bad40ac.woff2",
+    "static/media/fira-code-cyrillic-400-normal.woff2": "/static/media/fira-code-cyrillic-400-normal.d422a2608bde11389a91.woff2",
+    "static/media/fira-code-cyrillic-700-normal.woff2": "/static/media/fira-code-cyrillic-700-normal.e08b8ae839d9c26eff83.woff2",
+    "static/media/bungee-vietnamese-400-normal.woff2": "/static/media/bungee-vietnamese-400-normal.35a2efc8b99be71aebc4.woff2",
+    "static/media/fira-code-greek-ext-400-normal.woff2": "/static/media/fira-code-greek-ext-400-normal.7b190f87f3b16cfe66f0.woff2",
+    "static/media/fira-code-greek-ext-700-normal.woff2": "/static/media/fira-code-greek-ext-700-normal.70c1961c22d9fc18e899.woff2",
+    "index.html": "/index.html",
+    "main.cd1580f6.css.map": "/static/css/main.cd1580f6.css.map",
+    "main.756b9f4f.js.map": "/static/js/main.756b9f4f.js.map",
+    "377.c284133b.chunk.js.map": "/static/js/377.c284133b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd1580f6.css",
+    "static/js/main.756b9f4f.js"
+  ]
+}
