@@ -1,0 +1,31 @@
+{
+    "Events": [{
+            "img": {
+                "src": "/files/PIC.png"
+            },
+            "title": "We Do",
+            "time": "5:30 PM"   
+        },
+        {
+            "img": {
+                "src": "/files/PICONE.png"
+            },
+            "title": "Let's Drink",
+            "time": "6 PM"
+        },
+        {
+            "img": {
+                "src": "/files/PICTWO.png"
+            },
+            "title": "Let's Feast",
+            "time": "7 PM"
+        },
+        {
+            "img": {
+                "src": "/files/PICTHREE.png"
+            },
+            "title": "Let's Party",
+            "time": "8 PM"
+        }
+    ]
+}
