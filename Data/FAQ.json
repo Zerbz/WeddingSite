@@ -1,54 +1,58 @@
 {
     "FAQ": [{
-            "question": "1. Do you have a wedding registry?",
+            "question": "1. What time should I arrive?",
+            "answer": "Please arrive by 5:15 at the latest if you wish to attend the ceremony. We understand that traffic can be unpredictable, so we recommend arriving early. The ceremony will begin promptly at 5:30. If you are only attending the reception, please arrive by 6:30."
+        },
+        {
+            "question": "2. Do you have a wedding registry?",
             "answer": "No. Cash gifts are welcome if you'd like to contribute to our honeymoon, but your presence on the day is what's most important to us."
         },
         {
-            "question": "2. How do I RSVP?",
+            "question": "3. How do I RSVP?",
             "answer": "Use the PIN provided on your invitation to RSVP "
         },
         {
-            "question": "3. When is the RSVP deadline?",
+            "question": "4. When is the RSVP deadline?",
             "answer": "We kindly ask you submit your RSVP by August 4th, 2023."
         },
         {
-            "question": "4. What is the dress code?",
+            "question": "5. What is the dress code?",
             "answer": "Cocktail "
         },
         {
-            "question": "5. Can I bring a date?",
+            "question": "6. Can I bring a date?",
             "answer": "All guests 18+ at the time of the wedding are allocated a plus one. Please include your guest’s details on your RSVP."
         },
         {
-            "question": "6. Are children invited?",
+            "question": "7. Are children invited?",
             "answer": "At this time we are limiting guests to those who appear on the RSVP form. We appreciate you making arrangements ahead of time so you can celebrate with us."
         },
         {
-            "question": "7. Is the venue accessible?",
+            "question": "8. Is the venue accessible?",
             "answer": "Yes, there is ramp access to the ceremony space, and the reception area is on the ground floor."
         },
         {
-            "question": "8. What is the location of the ceremony and reception? Is it indoors or outdoors?",
+            "question": "9. What is the location of the ceremony and reception? Is it indoors or outdoors?",
             "answer": "Both the ceremony and reception are taking place at Whistle Bear Golf Club in Cambridge, ON. The ceremony is in a covered garden chapel, and the reception is indoors. The reception space includes an outdoor patio space."
         },
         {
-            "question": "9. What if I need to change my RSVP?",
+            "question": "10. What if I need to change my RSVP?",
             "answer": "No problem, we understand things change. Simply go to the RSVP tab, re-enter your PIN and update your RSVP information. We ask that all changes are completed before the deadline of July 14th, 2023."
         },
         {
-            "question": "10. What if I lost my RSVP PIN?",
+            "question": "11. What if I lost my RSVP PIN?",
             "answer": "Please contact either Nichole (226-929-4349) or Matt (905-580-5385) directly via text."
         },
         {
-            "question": "11. Will food and drinks be served at the reception? What Kind of food, and what if I have dietary restrictions?",
+            "question": "12. Will food and drinks be served at the reception? What Kind of food, and what if I have dietary restrictions?",
             "answer": "Yes, both food and drinks will be served. After the ceremony there will be a cocktail hour with hors d'oeuvres. Dinner will consist of a three-course seated meal, with your choice of entrée (vegan/vegetarian option available). Orders will be taken at your table the day of the event, so there is no need to RSVP with your choice. The event will include an open bar and late night station. Should you have any dietary restrictions, please include these on your RSVP."
         },
         {
-            "question": "12. Can I take and post pictures of the wedding on social media?",
+            "question": "13. Can I take and post pictures of the wedding on social media?",
             "answer": "We kindly ask that the ceremony portion of the wedding be ‘unplugged’. Please refrain from using your cell phones, cameras, and other devices. That being said, prior to and after the ceremony we encourage guests to take plenty of pictures and upload them to our Google Drive."
         },
         {
-            "question": "13. I still have questions, what is the best way to contact you?",
+            "question": "14. I still have questions, what is the best way to contact you?",
             "answer": "You may contact either Nichole (226-929-4349) or Matt (905-580-5385) directly via text."
         }
     ]
