@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.893ab893.css",
+    "main.css": "/static/css/main.12cce9c2.css",
     "main.js": "/static/js/main.c1d638ec.js",
     "static/js/377.c284133b.chunk.js": "/static/js/377.c284133b.chunk.js",
     "static/media/eb-garamond-all-400-normal.woff": "/static/media/eb-garamond-all-400-normal.4cac41a366db0f201d33.woff",
@@ -35,12 +35,12 @@
     "static/media/fira-code-greek-ext-400-normal.woff2": "/static/media/fira-code-greek-ext-400-normal.7b190f87f3b16cfe66f0.woff2",
     "static/media/fira-code-greek-ext-700-normal.woff2": "/static/media/fira-code-greek-ext-700-normal.70c1961c22d9fc18e899.woff2",
     "index.html": "/index.html",
-    "main.893ab893.css.map": "/static/css/main.893ab893.css.map",
+    "main.12cce9c2.css.map": "/static/css/main.12cce9c2.css.map",
     "main.c1d638ec.js.map": "/static/js/main.c1d638ec.js.map",
     "377.c284133b.chunk.js.map": "/static/js/377.c284133b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.893ab893.css",
+    "static/css/main.12cce9c2.css",
     "static/js/main.c1d638ec.js"
   ]
 }
