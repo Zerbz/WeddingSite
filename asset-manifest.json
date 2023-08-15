@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.252a506d.css",
-    "main.js": "/static/js/main.c05caebf.js",
+    "main.js": "/static/js/main.3b24b85c.js",
     "static/js/377.c284133b.chunk.js": "/static/js/377.c284133b.chunk.js",
     "static/media/eb-garamond-all-400-normal.woff": "/static/media/eb-garamond-all-400-normal.4cac41a366db0f201d33.woff",
     "static/media/fira-code-all-400-normal.woff": "/static/media/fira-code-all-400-normal.f040c6c2c35bd88d2ce8.woff",
@@ -36,11 +36,11 @@
     "static/media/fira-code-greek-ext-700-normal.woff2": "/static/media/fira-code-greek-ext-700-normal.70c1961c22d9fc18e899.woff2",
     "index.html": "/index.html",
     "main.252a506d.css.map": "/static/css/main.252a506d.css.map",
-    "main.c05caebf.js.map": "/static/js/main.c05caebf.js.map",
+    "main.3b24b85c.js.map": "/static/js/main.3b24b85c.js.map",
     "377.c284133b.chunk.js.map": "/static/js/377.c284133b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.252a506d.css",
-    "static/js/main.c05caebf.js"
+    "static/js/main.3b24b85c.js"
   ]
 }
